@@ -27,3 +27,7 @@
 * 修改完成后，点击build，添加文件名，选择路径，打包成apk文件
 * 打包完成后，可在夜神模拟器中使用
 
+#### 录屏演示成品
+[录屏演示](https://pan.baidu.com/s/17o0GXlVnhLulhREXEvtmEA)
+**提取码：id15**
+

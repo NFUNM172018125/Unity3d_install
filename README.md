@@ -11,13 +11,16 @@
 #### 配置环境
 * 在电脑属性或设置中找到环境变量
 * 新建用户变量，变量名"JAVA_HOME"，变量值D:jdk（即JDK的安装路径）
+![配置环境截图](https://github.com/NFUNM172018125/Unity3d_install/blob/master/images/peizhihuanjing.png)
 * 编辑变量名"Path"，在原变量值的最后面加上 %JAVA_HOME%\bin之后点击确定
 * 设置完成后验证是否成功安装JAVA，出现java版本号即安装成功
+![验证Java](https://github.com/NFUNM172018125/Unity3d_install/blob/master/images/cmd_yanzhengJava.png)
 
 #### 安装安卓开发包
 * 下载解压缩SDK开发包（软件：android-sdk_r24.4.1-windows）
 * 在开发包中找到SDK manger.exe，点击安装
 * 资源更新完成，点击install 17 packages进行下载，然后选择Android SDK License -> accept license -> install，大约需半小时。
+![安装安卓开发包](https://github.com/NFUNM172018125/Unity3d_install/blob/master/images/Android.png)
 
 #### 配置Android开发环境
 * 打开unity，在edit下找到Preferences
